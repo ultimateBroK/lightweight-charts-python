@@ -1,11 +1,10 @@
-<div align="center">
 # lightweight-charts-python
 
 ## Installation
 
 ```bash
 pip install lightweight-charts-esistjosh
-
+```
 
 ## Installation
 ```
